@@ -6,7 +6,7 @@ from newsapi import NewsApiClient
 app = Flask(__name__) 
 
 # Init news api 
-newsapi = NewsApiClient(api_key='1ba95adbdced45568a3751804bf69bbd') 
+newsapi = NewsApiClient(api_key='1ba95adbdced45568a3751804bf69bbd') #your secret key
 
 
 
